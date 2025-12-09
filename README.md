@@ -1,0 +1,2 @@
+We created and built this from scratch for our 6th semester,"Minor Project". It later was expanded to a review paper which won the Best Paper award at DJ ICACTA.
+Research Gate Paper link: https://www.researchgate.net/publication/341195197_Comparative_Analysis_of_Hand_Gesture_Recognition_Techniques_A_Review; https://www.springerprofessional.de/comparative-analysis-of-hand-gesture-recognition-techniques-a-re/17960072
